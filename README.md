@@ -1,6 +1,6 @@
 # 🚀 ESTOQUE DE BOLSO: Dignidade e Eficiência para o Microempreendedor
 
-O **Estoque de Bolso** não é apenas um punhado de tags HTML e funções JavaScript. É uma **FERRAMENTA DE EMANCIPAÇÃO**. Vivemos em um mundo onde grandes corporações usam softwares de milhões de dólares, enquanto o microempreendedor local — aquele que faz a economia girar de verdade — muitas vezes ainda depende do caderninho de papel que se perde, rasga ou molha. **ISSO ACABA AQUI.**
+O **Estoque de Bolso** é  uma **FERRAMENTA DE FACILITAÇÃO**. Vivemos em um mundo onde grandes corporações usam softwares de milhões de dólares, enquanto o microempreendedor local — aquele que faz a economia girar de verdade — muitas vezes ainda depende do caderninho de papel que se perde, rasga ou molha. **ISSO ACABA AQUI.**
 
 Este projeto nasceu para ser a ponte entre a necessidade real e a tecnologia de ponta, entregando simplicidade absoluta sem abrir mão da excelência visual e funcional.
 
@@ -31,4 +31,4 @@ Muitos empreendedores informais desistem por causa da "bagunça" administrativa.
 É sobre **reduzir o desperdício**, **prever lucros** e, acima de tudo, **valorizar o tempo** de quem trabalha duro. É tecnologia servindo ao humano, e não o contrário.
 
 ---
-*Desenvolvido com paixão para quem faz a diferença no dia a dia.* 💎
+
